@@ -1,3 +1,4 @@
 hello welcome to Git!!!
 
 commit 1
+commit 2
